@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+#postcard{
+    background-color: whitesmoke;
+    width: 450px;
+    height: 327px;
+    padding: 0.1px 0 0 7px;
+}
+#title{
+    text-align: left;
+    width: 265px;
+    float: left;
+}
+#logo{
+    width: 65px;
+    height: 65px;
+    padding-right: 5px;
+   float: right;
+}
+#fourgeeksLogo{    
+    width: 60px;
+    height: 60px;
+    padding: 10px 0 0 0;
+}
+#content{
+    float: left;
+    width: 50%;
+}
+#form{
+    float: right;
+    width: 50%;
+    height: 198px;
+}
+h1{
+    font-family: 'Handlee', cursive;
+}
+p{
+    font-family: 'Handlee', cursive;
+    font-size: 18px;
+}
+.input{
+    border: none;
+    border-bottom: 1px solid gray;
+    font-family: 'Handlee', cursive;
+    width: 215px;
+    height: 30px;
+}
+button{
+    background-color: gray;
+    margin-top: 7px;
+    font-family: 'Handlee', cursive;
+    font-size: 17px;
+    
+}
+
+#button{
+    text-align: center;
+}
